@@ -1,7 +1,7 @@
-url: mere.eirik.re/
+url: dwalton8.github.io
 locale: no
 edit:
-  repo: github.com/engeir/simple-recipes-cookbook/edit
+  repo: github.com/dwalton8/simple-recipes-cookbook/edit
   base: /src
   label: "Rediger denne siden"
 input: ./src
