@@ -1,7 +1,7 @@
 ---
+title: "Title"
 tag: [pasta, delicious]
 category: [example]
-title: "Custom CSS"
 ---
 
 ||| :icon-clock: Time
