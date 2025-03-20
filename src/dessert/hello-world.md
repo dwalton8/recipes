@@ -17,9 +17,6 @@ foo: "baz"
 
 # Hello, World!
 
-![](/static/hello-world-kake/hello-world-fin.webp)
-
-<!-- dprint-ignore-start -->
 ||| :icon-clock: Time
 35 mins
 ||| :timer_clock: Preparations
@@ -27,18 +24,6 @@ foo: "baz"
 ||| :cook: Cooking
 10 min
 |||
-<!-- dprint-ignore-end -->
-
-Du kan se det endelige resultatet i bildet over, og under er et bildet av kakemassen før
-den gikk i forma. Den var ikke helt konge, men smakte helt greit. Man kan nok helt fint
-redusere mengden vann i glasuren ganske mye. Men aller best er det å lage en annen, for
-eksempel
-
-[!ref icon=":cake:"](/dessert/kake-sjokolade-og-kaffe.md)
-
-![](/static/hello-world-kake/hello-world-prep.webp)
-
-Uansett, her er `Hello, World!` i `chef`.
 
 ```# "Hello, World!", written in chef
 Hello World Cake with Chocolate sauce.
