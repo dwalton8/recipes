@@ -5,7 +5,7 @@ output: ./docs
 branding:
   title: Recipes
 meta:
-  title: "Recipes"
+  title: " | Recipes"
 links:
   - text: Tags
     link: ./tags
@@ -13,8 +13,6 @@ links:
   - text: Categories
     link: ./categories
     icon: container
-  - text: Blog
-    link: ./blog
     icon: book
 footer:
   copyright: "Copyleft {{ year }}. All rights reversed. Fork me on [GitHub](https://github.com/engeir/simple-recipes-cookbook)"

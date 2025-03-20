@@ -3,7 +3,7 @@ description: 'The painless, portable, cookbook cookiecutter'
 icon: ":hocho:"
 ---
 
-# Simple Recipes Cookbook
+# Home
 
 > Welcome to the Simple Recipes Cookbook
 
