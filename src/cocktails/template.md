@@ -8,7 +8,7 @@ authors:
     avatar: ":cook:"
 ---
 
-![](../img/construction.jpg)
+![](img/construction.jpg)
 
 ||| :icon-clock: Time
 70 mins
@@ -19,7 +19,6 @@ authors:
 ||| :hash: Servings
 2
 |||
-
 
 ==- Ingredients
 

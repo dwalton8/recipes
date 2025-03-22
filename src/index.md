@@ -1,6 +1,6 @@
 ---
 description: 'The painless, portable, cookbook cookiecutter'
-icon: ":hocho:"
+icon: ":knife_fork_plate:"
 ---
 
 # Home

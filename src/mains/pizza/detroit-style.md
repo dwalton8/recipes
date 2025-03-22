@@ -1,7 +1,7 @@
 ---
 title: "Detroit Style"
 tag: [pepperoni, cheese, tomato]
-category: [main,pizza]
+category: [mains,pizza]
 authors:
   - name: J. Kenji López-Alt
     link: "https://www.seriouseats.com/detroit-style-pizza-recipe"

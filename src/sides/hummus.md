@@ -1,7 +1,7 @@
 ---
 title: "Hummus"
 tag: [sauce,dip,garlic,sesame]
-category: [side]
+category: [sides]
 authors:
   - name: Brian Lagerstrom
     link: "https://www.brianlagerstrom.com/recipes/hummus-and-pita"
