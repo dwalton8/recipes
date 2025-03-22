@@ -12,7 +12,7 @@ authors:
 
 ||| :icon-clock: Time
 24 hrs up to 3 days
-||| :knife: Preparations
+||| :knife: Prep
 20 mins
 ||| :cook: Cooking
 30 min
@@ -44,7 +44,7 @@ authors:
 <br>
 <br>
 
-3. Pour a tablespoon of oil into the center of each pan or 2 tablespoons of oil if using the 9×13-inch pan. Using two forks, deflate the dough by releasing it from the sides of the bowl and pulling it toward the center. Rotate the bowl in quarter turns as you deflate, turning the mass into a rough ball. Use the forks to split the dough into two equal pieces (or do not split if using the 9×13-inch pan). Place one piece into one of the prepared pans. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining piece. Let the dough balls rest for 3 to 4 hours depending on the temperature of your kitchen (Note: no need to cover for this room temperature rise).
+3. Pour a tablespoon of oil into the center of each pan or 2 tablespoons of oil if using the 9×13-inch pan. Using two forks, deflate the dough by releasing it from the sides of the bowl and pulling it toward the center. Rotate the bowl in quarter turns as you deflate, turning the mass into a rough ball. Use the forks to split the dough into two equal pieces (or do not split if using the 9×13-inch pan). Place one piece into one of the Prepared pans. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining piece. Let the dough balls rest for 3 to 4 hours depending on the temperature of your kitchen (Note: no need to cover for this room temperature rise).
 <br>
 <br>
 

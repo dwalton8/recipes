@@ -8,7 +8,7 @@ category: [mains,pasta]
 
 ||| :icon-clock: Time
 40 mins
-||| :knife: Preparations
+||| :knife: Prep
 5 mins
 ||| :cook: Cooking
 35 min

@@ -12,7 +12,7 @@ authors:
 
 ||| :icon-clock: Time
 70 mins
-||| :knife: Preparations
+||| :knife: Prep
 60 mins
 ||| :cook: Cooking
 10 min
@@ -37,12 +37,15 @@ authors:
 1. Step 1
 <br>
 <br>
+
 2. Step 2
 <br>
 <br>
+
 3. Step 3
 <br>
 <br>
+
 4. ...
 
 ===

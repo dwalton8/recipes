@@ -12,7 +12,7 @@ authors:
 
 ||| :icon-clock: Time
 1 hr 10 mins
-||| :knife: Preparations
+||| :knife: Prep
 10 mins
 ||| :cook: Cooking
 1 hr
@@ -50,6 +50,6 @@ authors:
 4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter.
 <br>
 <br>
-5. Add 1/2 tsp of vanilla extract and mix in chopped walnuts and raisins. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+5. Add 1/2 tsp of vanilla extract and mix in chopped walnuts and raisins. Pour into Prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
 
 ===

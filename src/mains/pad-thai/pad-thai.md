@@ -1,6 +1,6 @@
 ---
 title: "Pad Thai"
-tag: [noodles,asian]
+tag: [noodles,asian,thai]
 category: [mains]
 authors:
   - name: Pailin Chongchitnant
@@ -12,7 +12,7 @@ authors:
 
 ||| :icon-clock: Time
 50 mins
-||| :knife: Preparations
+||| :knife: Prep
 40 mins
 ||| :cook: Cooking
 10 min
@@ -54,7 +54,7 @@ authors:
 
 1. Add palm sugar to a small pot and melt over medium heat. Once the sugar is melting, keep stirring until it darkens in colour (see video for colour). Immediately add water, fish sauce, and tamarind paste. The sugar will harden immediately and this is okay.
 
-2. Bring sauce to a simmer, then turn off heat. The hardened sugar will not have dissolved at this point, but let it sit while you prep other ingredients and it should be dissolved by the time you need it. Check that it is dissolved before you start cooking!
+2. Bring sauce to a simmer, then turn off heat. The hardened sugar will not have dissolved at this point, but let it sit while you Prep other ingredients and it should be dissolved by the time you need it. Check that it is dissolved before you start cooking!
 
 #### For the Pad Thai: 
 <br>

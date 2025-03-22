@@ -1,7 +1,7 @@
 ---
 title: "Tamarind Paste"
-tag: [sour,asian]
-category: [mains]
+tag: []
+category: []
 authors:
   - name: Pailin Chongchitnant
     link: "https://hot-thai-kitchen.com/making-tamarind-paste/#recipe"
@@ -12,7 +12,7 @@ authors:
 
 ||| :icon-clock: Time
 25 mins
-||| :knife: Preparations
+||| :knife: Prep
 5 mins
 ||| :cook: Cooking
 20 min

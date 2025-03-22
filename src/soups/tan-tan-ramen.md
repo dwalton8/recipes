@@ -12,7 +12,7 @@ authors:
 
 ||| :icon-clock: Time
 45 mins
-||| :knife: Preparations
+||| :knife: Prep
 30 mins
 ||| :cook: Cooking
 15 min

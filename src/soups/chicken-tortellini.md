@@ -8,7 +8,7 @@ category: [soup]
 
 ||| :icon-clock: Time
 70 mins
-||| :knife: Preparations
+||| :knife: Prep
 60 mins
 ||| :cook: Cooking
 10 min

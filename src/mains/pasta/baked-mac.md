@@ -12,7 +12,7 @@ authors:
 
 ||| :icon-clock: Time
 50 mins
-||| :knife: Preparations
+||| :knife: Prep
 20 mins
 ||| :cook: Cooking
 30 min
@@ -49,7 +49,7 @@ authors:
 <br>
 <br>
 
-3. Drizzle pasta with olive oil and stir to coat pasta. Set aside to cool while preparing cheese sauce.
+3. Drizzle pasta with olive oil and stir to coat pasta. Set aside to cool while Preparing cheese sauce.
 <br>
 <br>
 
@@ -73,7 +73,7 @@ authors:
 <br>
 <br>
 
-9. Pour half of the mac and cheese into the prepared baking dish. Top with remaining 2 cups of shredded cheese and then the remaining mac and cheese.
+9. Pour half of the mac and cheese into the Prepared baking dish. Top with remaining 2 cups of shredded cheese and then the remaining mac and cheese.
 <br>
 <br>
 

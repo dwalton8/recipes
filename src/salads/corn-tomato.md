@@ -12,7 +12,7 @@ authors:
 
 ||| :icon-clock: Time
 20 mins
-||| :knife: Preparations
+||| :knife: Prep
 20 mins
 ||| :cook: Cooking
 N/A
