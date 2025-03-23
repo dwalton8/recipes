@@ -29,10 +29,11 @@ N/A
 - 1/4 cup basil sliced
 - Feta to taste
 
-For the dressing:
+###### For the dressing:
 - Olive oil
 - Juice of half a lime
 - salt and pepper to taste
+
 ===
 
 === Steps

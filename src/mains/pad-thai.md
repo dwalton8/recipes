@@ -22,7 +22,7 @@ authors:
 
 === Ingredients
 
-||| Main Dish
+###### Main Dish
 - 115g dry rice noodles, medium size 
 - 2 Tbsp dried shrimp, roughly chopped
 - 3 cloves garlic, chopped
@@ -38,12 +38,11 @@ authors:
 - ¼ cup roasted peanuts, roughly chopped
 - 1 lime
 
-||| Sauce
+###### Sauce
 - 35 g palm sugar, chopped
 - 3 Tbsp (45 ml) water
-- 3-4 tablespoon [tamarind paste](./tamarind-paste.md)
+- 3-4 tablespoon [tamarind paste](../sides/sauces/tamarind-paste.md)
 - 2 Tbsp good fish sauce
-|||
 
 ===
 

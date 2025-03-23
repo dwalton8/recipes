@@ -29,7 +29,8 @@ authors:
 - 2 ounces finely shredded Parmesan
 - 225-340 grams full-fat low-moisture mozzarella, shredded
 - ½ recipe (~225 grams) Chicago-style Italian sausage
-||| Dough
+
+###### Dough
 - 300 grams bread flour
 - 7 grams sugar 
 - 7 grams salt
@@ -37,7 +38,8 @@ authors:
 - 150 gml cold water
 - 30grams neutral oil
 - Semolina or cornmeal, for dusting
-||| Sauce
+
+###### Pizza Sauce
 - 1 796 ml can whole peeled tomatoes with their juices
 - 1 153 ml can tomato paste
 - 4 medium garlic cloves, minced
@@ -47,7 +49,8 @@ authors:
 - 2 teaspoons red-wine vinegar
 - 2 teaspoons garlic powder
 - 1 teaspoon kosher salt
-||| Italian Sausage
+
+###### Italian Sausage
 - 1 tablespoon whole fennel seeds
 - 1 pound ground pork
 - 4 medium garlic cloves, minced
@@ -57,7 +60,6 @@ authors:
 - 1 teaspoon dried marjoram
 - ½ teaspoon ground black pepper
 - Large pinch of red-pepper flakes
-|||
 
 ===
 

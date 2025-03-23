@@ -1,6 +1,6 @@
 ---
 title: "Hummus"
-tag: [sauce,dip,garlic,sesame]
+tag: [dip,garlic,sesame]
 category: [sides]
 authors:
   - name: Brian Lagerstrom

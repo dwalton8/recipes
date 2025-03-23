@@ -1,7 +1,8 @@
 ---
-title: "Title"
-tag: []
-category: []
+visibility: hidden
+title: "I'm a Template"
+tag: [tag]
+category: [category]
 authors:
   - name: Source
     link: ""
@@ -20,15 +21,15 @@ authors:
 2
 |||
 
-==- Ingredients
+=== Ingredients
 
-||| Group1
+###### Section 1
 - Ingredient 1
 - Ingredient 2
-||| Group2
+
+###### Section 2
 - Ingredient 1
 - Ingredient 2
-|||
 
 ===
 

@@ -22,14 +22,14 @@ authors:
 
 === Ingredients
 
-##### Main Dish
+###### Main Dish
 - 400g frozen udon noodles
 - 2½ cups stir fry vegetables of your liking
 - 2 stalks scallions, cut 2 inches long
 - ½ lb ground pork or chicken
 - 1 Tablespoon vegetable oil
 
-##### Sauce
+###### Sauce
 - 2½ Tablespoons dark soy sauce - see Note 2
 - 2 Tablespoons oyster sauce - see Note 3
 - 1 Tablespoon mirin - see Note 4

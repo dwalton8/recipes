@@ -23,14 +23,14 @@ authors:
 
 === Ingredients
 
-||| Pork Topping
+###### Pork Topping
 - 8 ounces ground pork
 - 1 tablespoon mirin
 - 1 tablespoon ginger (minced)
 - 1 tablespoon vegetable oil
 - 1 tablespoon spicy bean sauce (Sichuan doubanjiang)
 - 2 cloves garlic (minced)
-||| Soup Base
+###### Soup Base
 - 2 tablespoons soy sauce
 - 2 tablespoons roasted sesame paste
 - 1 teaspoon rice vinegar
@@ -38,11 +38,10 @@ authors:
 - 1 tablespoon Chili Oil
 - 2 cups chicken stock
 - 2 cups unsweetened oat milk
-||| Noodles and Toppings
+###### Noodles and Toppings
 - 2 handfuls leafy greens
 - 10-12 ounces fresh or frozen ramen noodles
 - 2 scallions (chopped)
-|||
 
 ===
 

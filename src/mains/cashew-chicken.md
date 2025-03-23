@@ -22,7 +22,7 @@ authors:
 
 === Ingredients
 
-||| Main Dish
+###### Main Dish
 - 400g boneless skinless chicken thighs, sliced
 - 2 teaspoons soy sauce
 - 2 tablespoons neutral oil
@@ -34,7 +34,8 @@ authors:
 - 1 large carrot, sliced
 - ¾ cup unsalted roasted cashews
 - 2 green onions, halved lengthwise and cut in 1.5-inch
-||| Sauce
+
+###### Sauce
 - 1 tablespoon oyster sauce
 - 1 tablespoon soy sauce
 - 1 teaspoon Golden Mountain or Maggi sauce
@@ -42,7 +43,6 @@ authors:
 - 1 ½ teaspoon sugar
 - 1 ½ Tablespoons Thai chili paste,
 - 1 teaspoon toasted sesame oil
-|||
 
 ===
 
