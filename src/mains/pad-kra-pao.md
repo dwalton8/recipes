@@ -1,6 +1,6 @@
 ---
 title: "Pad Kra Pao"
-tag: [spicy,asian,thai,pork]
+tag: [spicy,asian,thai,pork,basil]
 category: [mains]
 authors:
   - name: Source

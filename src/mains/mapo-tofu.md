@@ -18,7 +18,7 @@ category: [mains]
 
 === Ingredients
 
-- 1 package medium firm silken tofu, cut into bite size cubes
+- 1 package medium firm silken tofu, cut into cubes
 - 1-2 tbsp vegetable oil
 - 115-230g ground pork
 - 3-4 cloves of garlic, minced

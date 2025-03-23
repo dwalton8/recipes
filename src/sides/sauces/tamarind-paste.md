@@ -1,7 +1,7 @@
 ---
 title: "Tamarind Paste"
 tag: []
-category: []
+category: [sides,sauce]
 authors:
   - name: Pailin Chongchitnant
     link: "https://hot-thai-kitchen.com/making-tamarind-paste/#recipe"
@@ -17,6 +17,8 @@ authors:
 ||| :cook: Cooking
 20 min
 ||| 
+
+Used for [Pad Thai](../../mains/pad-thai.md)
 
 === Ingredients
 

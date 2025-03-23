@@ -25,12 +25,18 @@ authors:
 
 === Steps
 
-1. Add all ingredients to a shaker tin with ice
+1. Add all ingredients to a shaker tin with ice.
 <br>
 <br>
-2. Shake for 15 seconds
+
+2. Shake for 15 seconds.
 <br>
 <br>
-3. Double strain into a chilled coupe glass
+
+3. Double strain into a chilled coupe glass.
+<br>
+<br>
+
+4. Garnish with lemon peal.
 
 ===

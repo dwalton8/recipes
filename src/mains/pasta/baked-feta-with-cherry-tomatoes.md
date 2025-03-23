@@ -1,6 +1,6 @@
 ---
 title: "Baked Feta and Cherry Tomato Pasta"
-tag: [tomato,feta,pasta, garlic]
+tag: [tomato,feta,pasta, garlic,basil]
 category: [mains,pasta]
 ---
 
