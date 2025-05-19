@@ -29,15 +29,15 @@ authors:
 - 1 tbsp baking powder
 - 1/2 tsp baking soda
 - 1/2 tsp salt
-- 1 1/2 C plain whole milk yogurt or low-fat yogurt
+- 1 1/2 cup plain whole milk yogurt or low-fat yogurt
 - 2 tbsp fresh lemon juice, optional
 - 1 1/2 tbsp grated lemon zest
 - 2 large eggs
 - 8 tbsp unsalted butter, melted and cooled
 
 ###### Glaze
-- 1/4 C sugar
-- 1/4 C lemon juice 
+- 1/4 cup sugar
+- 1/4 cup lemon juice 
 
 ===
 
