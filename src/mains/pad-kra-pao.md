@@ -2,10 +2,6 @@
 title: "Pad Kra Pao"
 tag: [spicy,asian,thai,pork,basil]
 category: [mains]
-authors:
-  - name: Source
-    link: ""
-    avatar: ":cook:"
 ---
 
 ![](img/pad-kra-pao.jpg)
