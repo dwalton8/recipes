@@ -33,7 +33,7 @@ category: [sides,sauce]
 
 === Steps
 
-1. USe a mandoline to slice the garlic and scallions thin and evenly. Even slicing will ensure they cook evenly and don't burn when frying.
+1. Use a mandoline to slice the garlic and scallions thin and evenly. Even slicing will ensure they cook evenly and don't burn when frying.
 <br>
 <br>
 
@@ -45,10 +45,18 @@ category: [sides,sauce]
 <br>
 <br>
 
-4. Add the sesamle oil and stir.
+4. Let the oil cool down to 200-250 degrees F. Once cooled, add the ginger, cinnamon, star anise, sichuan peppercorns, bay leaves, cardamom, and cloves to the oil. Maintain the oil at 200-250 F and fry for 30-60 minutes. 
 <br>
 <br>
 
-5. Season with salt adjusting as necessary to taste.
+5. While the aromatics are frying, ddd the chili flakes to a heat proof bowl large enough for all of the oil. Once the garlic and shallots have cooled, break them up into smaller pieces so they integrate better into the final chili oil.
+<br>
+<br>
+
+6. Once the aromatics have finished frying, heat the oil back up to 350 F then pour the oil over the chili flakes through a fine enough strainer to catch all the aromatics.
+<br>
+<br>
+
+7. Add the garlic, shallots, sesame seeds, salt, and msg to the chili oil and stir well.
 
 ===
