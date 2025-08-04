@@ -36,11 +36,11 @@ authors:
 <br>
 <br>
 
-3. pour the heated oil over the ginger and scallions and stir to combine.
+3. Pour the heated oil over the ginger and scallions and stir to combine.
 <br>
 <br>
 
-4. Add the sesamle oil and stir.
+4. Add the sesame oil and stir.
 <br>
 <br>
 
